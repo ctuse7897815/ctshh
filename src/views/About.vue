@@ -1,5 +1,10 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <div class="about a-a"></div>
 </template>
+<style lang="less" scoped>
+.a-a {
+  text-align: left;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+</style>
